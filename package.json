@@ -1,0 +1,19 @@
+{
+  "name": "trivia",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.8.0",
+    "vite-plugin-html": "^3.2.0"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "axios": "^0.26.1",
+    "vue-axios": "^3.4.1"
+  }
+}
